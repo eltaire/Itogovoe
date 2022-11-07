@@ -11,4 +11,5 @@
 
 # Блок-схема алгоритма решения задачи
 
-II.jpg
+
+![II](https://user-images.githubusercontent.com/13339692/200301735-dd31731d-edbf-4e02-8c32-8e7d7f2375c2.jpg)
