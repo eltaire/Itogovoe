@@ -2,7 +2,7 @@
 		
 string[] array = AskArray();
 string[] result = FindArray(array, 3);
-
+Console.WriteLine($"Во введенном Вами массиве [{string.Join(", ", array)}] условию удовлетворяют: [{string.Join(", ", result)}]");
 
 string[] FindArray(string[] input, int n) {
     string[] output = new string[CountProcedure(input, n)];
@@ -27,5 +27,10 @@ int CountProcedure(string[] input, int n) {
     }
 
     return count;
+}
+
+string[] AskArray() {
+    Console.Write("Введите значения через пробел: ");
+    return Console.ReadLine().Split(" ");
 }
 
