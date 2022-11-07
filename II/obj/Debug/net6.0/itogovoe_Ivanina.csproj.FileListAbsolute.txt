@@ -1,0 +1,15 @@
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/bin/Debug/net6.0/itogovoe_Ivanina
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/bin/Debug/net6.0/itogovoe_Ivanina.deps.json
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/bin/Debug/net6.0/itogovoe_Ivanina.runtimeconfig.json
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/bin/Debug/net6.0/itogovoe_Ivanina.dll
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/bin/Debug/net6.0/itogovoe_Ivanina.pdb
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/itogovoe_Ivanina.csproj.AssemblyReference.cache
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/itogovoe_Ivanina.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/itogovoe_Ivanina.AssemblyInfoInputs.cache
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/itogovoe_Ivanina.AssemblyInfo.cs
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/itogovoe_Ivanina.csproj.CoreCompileInputs.cache
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/itogovoe_Ivanina.dll
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/refint/itogovoe_Ivanina.dll
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/itogovoe_Ivanina.pdb
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/itogovoe_Ivanina.genruntimeconfig.cache
+/Users/user_1/Desktop/рабочий стол/GB_Itogovoe/itogovoe_Ivanina/obj/Debug/net6.0/ref/itogovoe_Ivanina.dll
